@@ -87,7 +87,7 @@ function Todo() {
             {/* <img src="https://www.pngall.com/wp-content/uploads/5/Vector-Checklist-PNG-HD-Image.png" /> */}
             {/* <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/todo-list-1540192-1305387.png" /> */}
             <img src="https://cdn-icons-png.flaticon.com/512/3176/3176366.png" />
-            <figcaption>Add your list here</figcaption>
+            <figcaption>Add your tasks here</figcaption>
           </figure>
           <div className="addItems">
             <input
