@@ -233,4 +233,7 @@ input:focus {
   input {
     min-width: 60vw;
   }
+  .eachItem {
+    min-width: 60vw;
+  }
 }
