@@ -84,8 +84,8 @@ function Todo() {
       <div className="main-div">
         <div className="child-div">
           <figure>
-            <img src="https://www.pngall.com/wp-content/uploads/5/Vector-Checklist-PNG-HD-Image.png" />
-            {/* <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/todo-list-1540192-1305387.png" /> */}
+            {/* <img src="https://www.pngall.com/wp-content/uploads/5/Vector-Checklist-PNG-HD-Image.png" /> */}
+            <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/todo-list-1540192-1305387.png" />
             {/* <img src="src/assets/images/icons8-to-do-list-49.png" /> */}
             <figcaption>Add your list here</figcaption>
           </figure>
