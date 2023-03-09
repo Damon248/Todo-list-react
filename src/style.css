@@ -228,3 +228,9 @@ input:focus {
   -webkit-transform: translateY(0) scale(1, 1);
   transform: translateY(0) scale(1, 1);
 }
+
+@media only screen and (max-width: 768px) {
+  input {
+    min-width: 60vw;
+  }
+}
